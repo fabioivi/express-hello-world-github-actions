@@ -28,4 +28,4 @@ jobs:
         run: yarn
 
       - name: Run testes
-      - run: yarn test
+        run: yarn test
